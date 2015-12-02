@@ -3,7 +3,7 @@
 333
 444
 555
-666
 add new line
 add another line
 add dev1
+delete the 6 line dev1
