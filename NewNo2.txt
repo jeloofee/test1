@@ -6,3 +6,4 @@
 666
 insert dev2
 merge to dev1
+merge to dev1 too
